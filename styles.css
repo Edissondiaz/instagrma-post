@@ -104,6 +104,8 @@ body{
     width: 500px;
     height: 150px;
     margin: 0;
+   
+    
 }
 
 #texto1 {
@@ -119,7 +121,9 @@ body{
     width: 500px;
     height: 80px;
     margin-top: 20px;
-    margin-left: 10px;
+    margin-right: 10px;
+    
+    
 }
 
 
